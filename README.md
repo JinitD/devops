@@ -3,15 +3,19 @@
 ## Bienvenida
 
 
-
-|  |  |  |  |
-|--------------|--------------|--------------|--------------|
-| Manito aqui .. esto es un cur.. para.. que puedas aprender sobre conceptos de computacion en la nube y practicas simples para llenar tu curriculo con pokemon Api. En el curso de  | Cloud Computing y DevOps  | exploraremos las tecnologías y prácticas más relevantes en la industria para construir, desplegar y gestionar aplicaciones modernas de manera eficiente.  |     <img src="https://media.tenor.com/7lhi9QM40DwAAAAM/dog-surprised.gif" alt="Un gato divertido" width="500"> |
-
-
-
-
-
+<div style="display: flex; gap: 1rem;">
+    <div style="display: flex; gap: 0.5rem; justify-content: center; align-items: center;">
+        <p>Manito aqui .. esto es un cur.. para.. que puedas aprender sobre conceptos de computacion en la nube y
+            practicas
+            simples para llenar tu curriculo con pokemon Api. En el curso de </p>
+        <p style="font-weight: bolder; font-size: 1rem">Cloud Computing y DevOps</p>
+        <p>exploraremos las
+            tecnologías y prácticas más relevantes en la industria para construir, desplegar y gestionar aplicaciones
+            modernas
+            de manera eficiente.</p>
+    </div>
+    <img src="https://media.tenor.com/7lhi9QM40DwAAAAM/dog-surprised.gif" alt="Un gato divertido" width="300">
+</div>
 
 
 
