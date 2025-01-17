@@ -2,21 +2,16 @@
 
 ## Bienvenida
 
+<p>Manito aquí... esto es un curso para que puedas aprender sobre conceptos de computación en la nube y prácticas
+simples para llenar tu currículo con Pokémon API. En el curso de:</p>
 
-<div style="display: flex; gap: 1rem; " display="flex">
-    <div style="display: flex; gap: 0.5rem; justify-content: center; align-items: center;" display="flex">
-        <p>Manito aqui .. esto es un cur.. para.. que puedas aprender sobre conceptos de computacion en la nube y
-            practicas
-            simples para llenar tu curriculo con pokemon Api. En el curso de </p>
-        <p style="font-weight: bolder; font-size: 1rem">Cloud Computing y DevOps</p>
-        <p>exploraremos las
-            tecnologías y prácticas más relevantes en la industria para construir, desplegar y gestionar aplicaciones
-            modernas
-            de manera eficiente.</p>
-    </div>
-    <img src="https://media.tenor.com/7lhi9QM40DwAAAAM/dog-surprised.gif" alt="Un gato divertido" width="300">
-</div>
+<h2 align="center">Cloud Computing y DevOps</h2>
 
+<p>Exploraremos las tecnologías y prácticas más relevantes en la industria para construir, desplegar y gestionar
+aplicaciones modernas de manera eficiente.</p>
+<p align="center">
+    <img src="https://media.tenor.com/7lhi9QM40DwAAAAM/dog-surprised.gif" alt="Un gato divertido" align="center" alt="Tu Logo" />
+</p>
 
 
 ## Objetivos del Curso
