@@ -3,8 +3,8 @@
 ## Bienvenida
 
 
-<div style="display: flex; gap: 1rem;">
-    <div style="display: flex; gap: 0.5rem; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 1rem; " display="flex">
+    <div style="display: flex; gap: 0.5rem; justify-content: center; align-items: center;" display="flex">
         <p>Manito aqui .. esto es un cur.. para.. que puedas aprender sobre conceptos de computacion en la nube y
             practicas
             simples para llenar tu curriculo con pokemon Api. En el curso de </p>
@@ -16,8 +16,6 @@
     </div>
     <img src="https://media.tenor.com/7lhi9QM40DwAAAAM/dog-surprised.gif" alt="Un gato divertido" width="300">
 </div>
-
-
 
 
 
